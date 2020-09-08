@@ -5,6 +5,7 @@ A repository containing codes utilised for implementing a novel analytical metho
 
 Content | Definition 
 --- | --- 
+Environment models | sdf version models of all the testing environments used in the paper viz. isolated aisles, multiple aisles, warehouse-like
 urdf | This folder contains the urdf file of the pioneer2dx robot used for our experiments.
 mesh | mesh files used for the robot model
 block_counting.py | An independent code module used for getting the block count as explained in the paper.
